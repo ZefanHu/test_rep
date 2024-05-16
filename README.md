@@ -1,2 +1,2 @@
 # test_rep
-## this is a test
+## 测试连通性
